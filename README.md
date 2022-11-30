@@ -32,4 +32,4 @@ The class usage DEMO can be found in "main.cpp".
 ```
 ## Project documentation
 
-[GitHub repository](https://github.com/pjanku/AK5PC_Shape2D)
+[GitHub repository](https://github.com/pjanku/AK5PC_ParkingLot)
